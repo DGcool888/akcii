@@ -24,7 +24,7 @@
        <h4>СОСИСКА МОЛОЧНА</h4>
        <img src="https://c8.alamy.com/comp/CFGFT4/black-pudding-or-blood-sausage-isolated-on-a-white-studio-background-CFGFT4.jpg" width="250px" height="250px"><h4>Кров'янка</h4>
        <h3>Та головний спонсор!</h3>
-       <img src="https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg"width="350px" height="350px">
+       <img src="https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg" width="350px" height="350px">
        <h1><b>КОРОВА</b></h1>
      </footer>
 </html>
