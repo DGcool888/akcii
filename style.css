@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    border: 1px solid blue;
+    background-color: blue;
+    color: cornsilk;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    width: 300px;
+}
+
+header a:hover{
+background-color: yellow;
+border-radius: 30px;
+border: 5px solid yellow;
+color:green;
+transition: 1s ;
+
+}
+
+main h2{
+    width: 300px;
+}
+main h3{
+  border: 1px solid yellow;
+    background-color: yellow;
+    color: violet;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+    width: 300px;
+
+}
+
+main {
+    border: 3px dashed blue;
+    position: relative;
+    left: 800px;
+    box-shadow: 10px 5px 5px;
+    width: 315px;
+}
+
+header a:visited{
+background-color: grey;
+}
+
+footer{
+    border-top: 5px dotted blue;
+}
+
+footer img{
+    border: 3px solid violet;
+    border-radius: 100px;
+}
+
