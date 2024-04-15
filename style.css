@@ -44,10 +44,6 @@ main {
     width: 315px;
 }
 
-header a:visited{
-background-color: grey;
-}
-
 footer{
     border-top: 5px dotted blue;
 }
